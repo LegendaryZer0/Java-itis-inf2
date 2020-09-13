@@ -1,0 +1,22 @@
+.navContainer.topmenu {
+    list-style-type: none;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+li a {
+    display: block;
+    color: #000;
+    
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+*{
+    padding:0px;
+    margin: 0px;
+}

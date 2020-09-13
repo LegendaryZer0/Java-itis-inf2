@@ -1,0 +1,17 @@
+.header{
+    background: #b6c9f1;
+    border-right-color: black;
+    border-right-width: 10px;
+    
+}
+.headNavCont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.footNavCont{
+
+
+    background: deepskyblue;
+}

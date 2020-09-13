@@ -1,0 +1,41 @@
+
+
+  .info {
+      display: flex;
+      flex-direction: row;
+      /* text-align: right; */
+  }
+
+.leftNav{
+    height: 1000px;
+    width: 300px;
+    padding-right: 10px;
+    margin-right: 10px;
+    border-right-color: black;
+    border-right-width: 20px;
+    
+    background: #f1f1f1;
+
+}
+.mainBody{
+    display: flex;
+    flex-direction: row;
+   
+    
+}
+.body{
+    background: #e1f7fa;
+}
+.banner{
+    display: flex;
+    flex-direction: column;
+}
+.firstContent{
+    font-family: sans-serif;
+}
+.secondContent{
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
