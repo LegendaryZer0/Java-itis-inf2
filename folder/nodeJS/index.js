@@ -4,7 +4,7 @@
 // console.log(text);
 const http =require("http");
 const express = require("express")
-const app = 
+const app = express();
 const server = http.createServer((req,res)=>{
     console.log(req);
     res.end("Hello MineWorld");
